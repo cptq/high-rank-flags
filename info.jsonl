@@ -1,0 +1,326 @@
+{"Description": "Ascension Island", "Added": "2009-07-29", "filename": "AC"}
+{"Description": "Andorra", "Added": "2005-10-16", "filename": "AD"}
+{"Description": "United Arab Emirates", "Added": "2005-10-16", "filename": "AE"}
+{"Description": "Afghanistan", "Added": "2005-10-16", "filename": "AF"}
+{"Description": "Antigua and Barbuda", "Added": "2005-10-16", "filename": "AG"}
+{"Description": "Anguilla", "Added": "2005-10-16", "filename": "AI"}
+{"Description": "Albania", "Added": "2005-10-16", "filename": "AL"}
+{"Description": "Armenia", "Added": "2005-10-16", "filename": "AM"}
+{"Description": "Angola", "Added": "2005-10-16", "filename": "AO"}
+{"Description": "Antarctica", "Added": "2005-10-16", "filename": "AQ"}
+{"Description": "Argentina", "Added": "2005-10-16", "filename": "AR"}
+{"Description": "American Samoa", "Added": "2005-10-16", "filename": "AS"}
+{"Description": "Austria", "Added": "2005-10-16", "filename": "AT"}
+{"Description": "Australia", "Added": "2005-10-16", "filename": "AU"}
+{"Description": "Aruba", "Added": "2005-10-16", "filename": "AW"}
+{"Description": "\u00c5land Islands", "Added": "2005-10-16", "filename": "AX"}
+{"Description": "Azerbaijan", "Added": "2005-10-16", "filename": "AZ"}
+{"Description": "Bosnia and Herzegovina", "Added": "2005-10-16", "filename": "BA"}
+{"Description": "Barbados", "Added": "2005-10-16", "filename": "BB"}
+{"Description": "Bangladesh", "Added": "2005-10-16", "filename": "BD"}
+{"Description": "Belgium", "Added": "2005-10-16", "filename": "BE"}
+{"Description": "Burkina Faso", "Added": "2005-10-16", "filename": "BF"}
+{"Description": "Bulgaria", "Added": "2005-10-16", "filename": "BG"}
+{"Description": "Bahrain", "Added": "2005-10-16", "filename": "BH"}
+{"Description": "Burundi", "Added": "2005-10-16", "filename": "BI"}
+{"Description": "Benin", "Added": "2005-10-16", "filename": "BJ"}
+{"Description": "Saint Barth\u00e9lemy", "Added": "2007-11-02", "filename": "BL"}
+{"Description": "Bermuda", "Added": "2005-10-16", "filename": "BM"}
+{"Description": "Brunei Darussalam", "Added": "2005-10-16", "filename": "BN"}
+{"Description": "Bolivia", "Added": "2005-10-16", "filename": "BO"}
+{"Description": "Bonaire, Sint Eustatius and Saba", "Added": "2011-01-07", "filename": "BQ"}
+{"Description": "Brazil", "Added": "2005-10-16", "filename": "BR"}
+{"Description": "Bahamas", "Added": "2005-10-16", "filename": "BS"}
+{"Description": "Bhutan", "Added": "2005-10-16", "filename": "BT"}
+{"Description": "Bouvet Island", "Added": "2005-10-16", "filename": "BV"}
+{"Description": "Botswana", "Added": "2005-10-16", "filename": "BW"}
+{"Description": "Belarus", "Added": "2005-10-16", "filename": "BY"}
+{"Description": "Belize", "Added": "2005-10-16", "filename": "BZ"}
+{"Description": "Canada", "Added": "2005-10-16", "filename": "CA"}
+{"Description": "Cocos (Keeling) Islands", "Added": "2005-10-16", "filename": "CC"}
+{"Description": "The Democratic Republic of the Congo", "Added": "2005-10-16", "filename": "CD"}
+{"Description": "Central African Republic", "Added": "2005-10-16", "filename": "CF"}
+{"Description": "Congo", "Added": "2005-10-16", "filename": "CG"}
+{"Description": "Switzerland", "Added": "2005-10-16", "filename": "CH"}
+{"Description": "C\u00f4te d'Ivoire", "Added": "2005-10-16", "filename": "CI"}
+{"Description": "Cook Islands", "Added": "2005-10-16", "filename": "CK"}
+{"Description": "Chile", "Added": "2005-10-16", "filename": "CL"}
+{"Description": "Cameroon", "Added": "2005-10-16", "filename": "CM"}
+{"Description": "China", "Added": "2005-10-16", "filename": "CN"}
+{"Description": "Colombia", "Added": "2005-10-16", "filename": "CO"}
+{"Description": "Clipperton Island", "Added": "2009-07-29", "filename": "CP"}
+{"Description": "Costa Rica", "Added": "2005-10-16", "filename": "CR"}
+{"Description": "Cuba", "Added": "2005-10-16", "filename": "CU"}
+{"Description": "Cape Verde", "Added": "2005-10-16", "filename": "CV"}
+{"Description": "Cura\u00e7ao", "Added": "2011-01-07", "filename": "CW"}
+{"Description": "Christmas Island", "Added": "2005-10-16", "filename": "CX"}
+{"Description": "Cyprus", "Added": "2005-10-16", "filename": "CY"}
+{"Description": "Czech Republic", "Added": "2005-10-16", "filename": "CZ"}
+{"Description": "Germany", "Added": "2005-10-16", "filename": "DE"}
+{"Description": "Diego Garcia", "Added": "2009-07-29", "filename": "DG"}
+{"Description": "Djibouti", "Added": "2005-10-16", "filename": "DJ"}
+{"Description": "Denmark", "Added": "2005-10-16", "filename": "DK"}
+{"Description": "Dominica", "Added": "2005-10-16", "filename": "DM"}
+{"Description": "Dominican Republic", "Added": "2005-10-16", "filename": "DO"}
+{"Description": "Algeria", "Added": "2005-10-16", "filename": "DZ"}
+{"Description": "Ceuta, Melilla", "Added": "2009-07-29", "filename": "EA"}
+{"Description": "Ecuador", "Added": "2005-10-16", "filename": "EC"}
+{"Description": "Estonia", "Added": "2005-10-16", "filename": "EE"}
+{"Description": "Egypt", "Added": "2005-10-16", "filename": "EG"}
+{"Description": "Western Sahara", "Added": "2005-10-16", "filename": "EH"}
+{"Description": "Eritrea", "Added": "2005-10-16", "filename": "ER"}
+{"Description": "Spain", "Added": "2005-10-16", "filename": "ES"}
+{"Description": "Ethiopia", "Added": "2005-10-16", "filename": "ET"}
+{"Description": "European Union", "Added": "2009-07-29", "filename": "EU"}
+{"Description": "Finland", "Added": "2005-10-16", "filename": "FI"}
+{"Description": "Fiji", "Added": "2005-10-16", "filename": "FJ"}
+{"Description": "Falkland Islands (Malvinas)", "Added": "2005-10-16", "filename": "FK"}
+{"Description": "Federated States of Micronesia", "Added": "2005-10-16", "filename": "FM"}
+{"Description": "Faroe Islands", "Added": "2005-10-16", "filename": "FO"}
+{"Description": "France", "Added": "2005-10-16", "filename": "FR"}
+{"Description": "Gabon", "Added": "2005-10-16", "filename": "GA"}
+{"Description": "United Kingdom", "Added": "2005-10-16", "Comments": "as of 2006-03-29 GB no longer includes the Channel Islands and Isle of Man; see GG, JE, IM", "filename": "GB"}
+{"Description": "Grenada", "Added": "2005-10-16", "filename": "GD"}
+{"Description": "Georgia", "Added": "2005-10-16", "filename": "GE"}
+{"Description": "French Guiana", "Added": "2005-10-16", "filename": "GF"}
+{"Description": "Guernsey", "Added": "2006-03-29", "filename": "GG"}
+{"Description": "Ghana", "Added": "2005-10-16", "filename": "GH"}
+{"Description": "Gibraltar", "Added": "2005-10-16", "filename": "GI"}
+{"Description": "Greenland", "Added": "2005-10-16", "filename": "GL"}
+{"Description": "Gambia", "Added": "2005-10-16", "filename": "GM"}
+{"Description": "Guinea", "Added": "2005-10-16", "filename": "GN"}
+{"Description": "Guadeloupe", "Added": "2005-10-16", "filename": "GP"}
+{"Description": "Equatorial Guinea", "Added": "2005-10-16", "filename": "GQ"}
+{"Description": "Greece", "Added": "2005-10-16", "filename": "GR"}
+{"Description": "South Georgia and the South Sandwich Islands", "Added": "2005-10-16", "filename": "GS"}
+{"Description": "Guatemala", "Added": "2005-10-16", "filename": "GT"}
+{"Description": "Guam", "Added": "2005-10-16", "filename": "GU"}
+{"Description": "Guinea-Bissau", "Added": "2005-10-16", "filename": "GW"}
+{"Description": "Guyana", "Added": "2005-10-16", "filename": "GY"}
+{"Description": "Hong Kong", "Added": "2005-10-16", "filename": "HK"}
+{"Description": "Heard Island and McDonald Islands", "Added": "2005-10-16", "filename": "HM"}
+{"Description": "Honduras", "Added": "2005-10-16", "filename": "HN"}
+{"Description": "Croatia", "Added": "2005-10-16", "filename": "HR"}
+{"Description": "Haiti", "Added": "2005-10-16", "filename": "HT"}
+{"Description": "Hungary", "Added": "2005-10-16", "filename": "HU"}
+{"Description": "Canary Islands", "Added": "2009-07-29", "filename": "IC"}
+{"Description": "Indonesia", "Added": "2005-10-16", "filename": "ID"}
+{"Description": "Ireland", "Added": "2005-10-16", "filename": "IE"}
+{"Description": "Israel", "Added": "2005-10-16", "filename": "IL"}
+{"Description": "Isle of Man", "Added": "2006-03-29", "filename": "IM"}
+{"Description": "India", "Added": "2005-10-16", "filename": "IN"}
+{"Description": "British Indian Ocean Territory", "Added": "2005-10-16", "filename": "IO"}
+{"Description": "Iraq", "Added": "2005-10-16", "filename": "IQ"}
+{"Description": "Islamic Republic of Iran", "Added": "2005-10-16", "filename": "IR"}
+{"Description": "Iceland", "Added": "2005-10-16", "filename": "IS"}
+{"Description": "Italy", "Added": "2005-10-16", "filename": "IT"}
+{"Description": "Jersey", "Added": "2006-03-29", "filename": "JE"}
+{"Description": "Jamaica", "Added": "2005-10-16", "filename": "JM"}
+{"Description": "Jordan", "Added": "2005-10-16", "filename": "JO"}
+{"Description": "Japan", "Added": "2005-10-16", "filename": "JP"}
+{"Description": "Kenya", "Added": "2005-10-16", "filename": "KE"}
+{"Description": "Kyrgyzstan", "Added": "2005-10-16", "filename": "KG"}
+{"Description": "Cambodia", "Added": "2005-10-16", "filename": "KH"}
+{"Description": "Kiribati", "Added": "2005-10-16", "filename": "KI"}
+{"Description": "Comoros", "Added": "2005-10-16", "filename": "KM"}
+{"Description": "Saint Kitts and Nevis", "Added": "2005-10-16", "filename": "KN"}
+{"Description": "Democratic People's Republic of Korea", "Added": "2005-10-16", "filename": "KP"}
+{"Description": "Republic of Korea", "Added": "2005-10-16", "filename": "KR"}
+{"Description": "Kuwait", "Added": "2005-10-16", "filename": "KW"}
+{"Description": "Cayman Islands", "Added": "2005-10-16", "filename": "KY"}
+{"Description": "Kazakhstan", "Added": "2005-10-16", "filename": "KZ"}
+{"Description": "Lao People's Democratic Republic", "Added": "2005-10-16", "filename": "LA"}
+{"Description": "Lebanon", "Added": "2005-10-16", "filename": "LB"}
+{"Description": "Saint Lucia", "Added": "2005-10-16", "filename": "LC"}
+{"Description": "Liechtenstein", "Added": "2005-10-16", "filename": "LI"}
+{"Description": "Sri Lanka", "Added": "2005-10-16", "filename": "LK"}
+{"Description": "Liberia", "Added": "2005-10-16", "filename": "LR"}
+{"Description": "Lesotho", "Added": "2005-10-16", "filename": "LS"}
+{"Description": "Lithuania", "Added": "2005-10-16", "filename": "LT"}
+{"Description": "Luxembourg", "Added": "2005-10-16", "filename": "LU"}
+{"Description": "Latvia", "Added": "2005-10-16", "filename": "LV"}
+{"Description": "Libya", "Added": "2005-10-16", "filename": "LY"}
+{"Description": "Morocco", "Added": "2005-10-16", "filename": "MA"}
+{"Description": "Monaco", "Added": "2005-10-16", "filename": "MC"}
+{"Description": "Moldova", "Added": "2005-10-16", "filename": "MD"}
+{"Description": "Montenegro", "Added": "2006-10-05", "filename": "ME"}
+{"Description": "Saint Martin (French part)", "Added": "2007-11-02", "filename": "MF"}
+{"Description": "Madagascar", "Added": "2005-10-16", "filename": "MG"}
+{"Description": "Marshall Islands", "Added": "2005-10-16", "filename": "MH"}
+{"Description": "The Former Yugoslav Republic of Macedonia", "Added": "2005-10-16", "filename": "MK"}
+{"Description": "Mali", "Added": "2005-10-16", "filename": "ML"}
+{"Description": "Myanmar", "Added": "2005-10-16", "filename": "MM"}
+{"Description": "Mongolia", "Added": "2005-10-16", "filename": "MN"}
+{"Description": "Macao", "Added": "2005-10-16", "filename": "MO"}
+{"Description": "Northern Mariana Islands", "Added": "2005-10-16", "filename": "MP"}
+{"Description": "Martinique", "Added": "2005-10-16", "filename": "MQ"}
+{"Description": "Mauritania", "Added": "2005-10-16", "filename": "MR"}
+{"Description": "Montserrat", "Added": "2005-10-16", "filename": "MS"}
+{"Description": "Malta", "Added": "2005-10-16", "filename": "MT"}
+{"Description": "Mauritius", "Added": "2005-10-16", "filename": "MU"}
+{"Description": "Maldives", "Added": "2005-10-16", "filename": "MV"}
+{"Description": "Malawi", "Added": "2005-10-16", "filename": "MW"}
+{"Description": "Mexico", "Added": "2005-10-16", "filename": "MX"}
+{"Description": "Malaysia", "Added": "2005-10-16", "filename": "MY"}
+{"Description": "Mozambique", "Added": "2005-10-16", "filename": "MZ"}
+{"Description": "Namibia", "Added": "2005-10-16", "filename": "NA"}
+{"Description": "New Caledonia", "Added": "2005-10-16", "filename": "NC"}
+{"Description": "Niger", "Added": "2005-10-16", "filename": "NE"}
+{"Description": "Norfolk Island", "Added": "2005-10-16", "filename": "NF"}
+{"Description": "Nigeria", "Added": "2005-10-16", "filename": "NG"}
+{"Description": "Nicaragua", "Added": "2005-10-16", "filename": "NI"}
+{"Description": "Netherlands", "Added": "2005-10-16", "filename": "NL"}
+{"Description": "Norway", "Added": "2005-10-16", "filename": "NO"}
+{"Description": "Nepal", "Added": "2005-10-16", "filename": "NP"}
+{"Description": "Nauru", "Added": "2005-10-16", "filename": "NR"}
+{"Description": "Niue", "Added": "2005-10-16", "filename": "NU"}
+{"Description": "New Zealand", "Added": "2005-10-16", "filename": "NZ"}
+{"Description": "Oman", "Added": "2005-10-16", "filename": "OM"}
+{"Description": "Panama", "Added": "2005-10-16", "filename": "PA"}
+{"Description": "Peru", "Added": "2005-10-16", "filename": "PE"}
+{"Description": "French Polynesia", "Added": "2005-10-16", "filename": "PF"}
+{"Description": "Papua New Guinea", "Added": "2005-10-16", "filename": "PG"}
+{"Description": "Philippines", "Added": "2005-10-16", "filename": "PH"}
+{"Description": "Pakistan", "Added": "2005-10-16", "filename": "PK"}
+{"Description": "Poland", "Added": "2005-10-16", "filename": "PL"}
+{"Description": "Saint Pierre and Miquelon", "Added": "2005-10-16", "filename": "PM"}
+{"Description": "Pitcairn", "Added": "2005-10-16", "filename": "PN"}
+{"Description": "Puerto Rico", "Added": "2005-10-16", "filename": "PR"}
+{"Description": "State of Palestine", "Added": "2005-10-16", "filename": "PS"}
+{"Description": "Portugal", "Added": "2005-10-16", "filename": "PT"}
+{"Description": "Palau", "Added": "2005-10-16", "filename": "PW"}
+{"Description": "Paraguay", "Added": "2005-10-16", "filename": "PY"}
+{"Description": "Qatar", "Added": "2005-10-16", "filename": "QA"}
+{"Description": "R\u00e9union", "Added": "2005-10-16", "filename": "RE"}
+{"Description": "Romania", "Added": "2005-10-16", "filename": "RO"}
+{"Description": "Serbia", "Added": "2006-10-05", "filename": "RS"}
+{"Description": "Russian Federation", "Added": "2005-10-16", "filename": "RU"}
+{"Description": "Rwanda", "Added": "2005-10-16", "filename": "RW"}
+{"Description": "Saudi Arabia", "Added": "2005-10-16", "filename": "SA"}
+{"Description": "Solomon Islands", "Added": "2005-10-16", "filename": "SB"}
+{"Description": "Seychelles", "Added": "2005-10-16", "filename": "SC"}
+{"Description": "Sudan", "Added": "2005-10-16", "filename": "SD"}
+{"Description": "Sweden", "Added": "2005-10-16", "filename": "SE"}
+{"Description": "Singapore", "Added": "2005-10-16", "filename": "SG"}
+{"Description": "Saint Helena, Ascension and Tristan da Cunha", "Added": "2005-10-16", "filename": "SH"}
+{"Description": "Slovenia", "Added": "2005-10-16", "filename": "SI"}
+{"Description": "Svalbard and Jan Mayen", "Added": "2005-10-16", "filename": "SJ"}
+{"Description": "Slovakia", "Added": "2005-10-16", "filename": "SK"}
+{"Description": "Sierra Leone", "Added": "2005-10-16", "filename": "SL"}
+{"Description": "San Marino", "Added": "2005-10-16", "filename": "SM"}
+{"Description": "Senegal", "Added": "2005-10-16", "filename": "SN"}
+{"Description": "Somalia", "Added": "2005-10-16", "filename": "SO"}
+{"Description": "Suriname", "Added": "2005-10-16", "filename": "SR"}
+{"Description": "South Sudan", "Added": "2011-08-25", "filename": "SS"}
+{"Description": "Sao Tome and Principe", "Added": "2005-10-16", "filename": "ST"}
+{"Description": "El Salvador", "Added": "2005-10-16", "filename": "SV"}
+{"Description": "Sint Maarten (Dutch part)", "Added": "2011-01-07", "filename": "SX"}
+{"Description": "Syrian Arab Republic", "Added": "2005-10-16", "filename": "SY"}
+{"Description": "Swaziland", "Added": "2005-10-16", "filename": "SZ"}
+{"Description": "Tristan da Cunha", "Added": "2009-07-29", "filename": "TA"}
+{"Description": "Turks and Caicos Islands", "Added": "2005-10-16", "filename": "TC"}
+{"Description": "Chad", "Added": "2005-10-16", "filename": "TD"}
+{"Description": "French Southern Territories", "Added": "2005-10-16", "filename": "TF"}
+{"Description": "Togo", "Added": "2005-10-16", "filename": "TG"}
+{"Description": "Thailand", "Added": "2005-10-16", "filename": "TH"}
+{"Description": "Tajikistan", "Added": "2005-10-16", "filename": "TJ"}
+{"Description": "Tokelau", "Added": "2005-10-16", "filename": "TK"}
+{"Description": "Timor-Leste", "Added": "2005-10-16", "filename": "TL"}
+{"Description": "Turkmenistan", "Added": "2005-10-16", "filename": "TM"}
+{"Description": "Tunisia", "Added": "2005-10-16", "filename": "TN"}
+{"Description": "Tonga", "Added": "2005-10-16", "filename": "TO"}
+{"Description": "Turkey", "Added": "2005-10-16", "filename": "TR"}
+{"Description": "Trinidad and Tobago", "Added": "2005-10-16", "filename": "TT"}
+{"Description": "Tuvalu", "Added": "2005-10-16", "filename": "TV"}
+{"Description": "Taiwan, Province of China", "Added": "2005-10-16", "filename": "TW"}
+{"Description": "United Republic of Tanzania", "Added": "2005-10-16", "filename": "TZ"}
+{"Description": "Ukraine", "Added": "2005-10-16", "filename": "UA"}
+{"Description": "Uganda", "Added": "2005-10-16", "filename": "UG"}
+{"Description": "United States Minor Outlying Islands", "Added": "2005-10-16", "filename": "UM"}
+{"Description": "United Nations", "Added": "2016-06-29", "filename": "UN"}
+{"Description": "United States", "Added": "2005-10-16", "filename": "US"}
+{"Description": "Uruguay", "Added": "2005-10-16", "filename": "UY"}
+{"Description": "Uzbekistan", "Added": "2005-10-16", "filename": "UZ"}
+{"Description": "Holy See (Vatican City State)", "Added": "2005-10-16", "filename": "VA"}
+{"Description": "Saint Vincent and the Grenadines", "Added": "2005-10-16", "filename": "VC"}
+{"Description": "Venezuela", "Added": "2005-10-16", "filename": "VE"}
+{"Description": "British Virgin Islands", "Added": "2005-10-16", "filename": "VG"}
+{"Description": "U.S. Virgin Islands", "Added": "2005-10-16", "filename": "VI"}
+{"Description": "Viet Nam", "Added": "2005-10-16", "filename": "VN"}
+{"Description": "Vanuatu", "Added": "2005-10-16", "filename": "VU"}
+{"Description": "Wallis and Futuna", "Added": "2005-10-16", "filename": "WF"}
+{"Description": "Samoa", "Added": "2005-10-16", "filename": "WS"}
+{"Description": "Kosovo", "Added": "2014-07-07", "filename": "XK"}
+{"Description": "Yemen", "Added": "2005-10-16", "filename": "YE"}
+{"Description": "Mayotte", "Added": "2005-10-16", "filename": "YT"}
+{"Description": "South Africa", "Added": "2005-10-16", "filename": "ZA"}
+{"Description": "Zambia", "Added": "2005-10-16", "filename": "ZM"}
+{"Description": "Zimbabwe", "Added": "2005-10-16", "filename": "ZW"}
+{"Subdivision category": "province", "Subdivision name": "Alberta", "Parent subdivision": "", "filename": "CA-AB"}
+{"Subdivision category": "province", "Subdivision name": "British Columbia", "Parent subdivision": "", "filename": "CA-BC"}
+{"Subdivision category": "province", "Subdivision name": "Manitoba", "Parent subdivision": "", "filename": "CA-MB"}
+{"Subdivision category": "province", "Subdivision name": "New Brunswick", "Parent subdivision": "", "filename": "CA-NB"}
+{"Subdivision category": "province", "Subdivision name": "Newfoundland and Labrador", "Parent subdivision": "", "filename": "CA-NL"}
+{"Subdivision category": "province", "Subdivision name": "Nova Scotia", "Parent subdivision": "", "filename": "CA-NS"}
+{"Subdivision category": "territory", "Subdivision name": "Northwest Territories", "Parent subdivision": "", "filename": "CA-NT"}
+{"Subdivision category": "territory", "Subdivision name": "Nunavut", "Parent subdivision": "", "filename": "CA-NU"}
+{"Subdivision category": "province", "Subdivision name": "Ontario", "Parent subdivision": "", "filename": "CA-ON"}
+{"Subdivision category": "province", "Subdivision name": "Prince Edward Island", "Parent subdivision": "", "filename": "CA-PE"}
+{"Subdivision category": "province", "Subdivision name": "Quebec", "Parent subdivision": "", "filename": "CA-QC"}
+{"Subdivision category": "province", "Subdivision name": "Saskatchewan", "Parent subdivision": "", "filename": "CA-SK"}
+{"Subdivision category": "territory", "Subdivision name": "Yukon", "Parent subdivision": "", "filename": "CA-YT"}
+{"Subdivision category": "country", "Subdivision name": "England", "Parent subdivision": "", "filename": "GB-ENG"}
+{"Subdivision category": "province", "Subdivision name": "Northern Ireland", "Parent subdivision": "", "filename": "GB-NIR"}
+{"Subdivision category": "country", "Subdivision name": "Scotland", "Parent subdivision": "", "filename": "GB-SCT"}
+{"Subdivision category": "country", "Subdivision name": "Wales", "Parent subdivision": "", "filename": "GB-WLS"}
+{"Subdivision category": "state", "Subdivision name": "Alaska", "Parent subdivision": "", "filename": "US-AK"}
+{"Subdivision category": "state", "Subdivision name": "Alabama", "Parent subdivision": "", "filename": "US-AL"}
+{"Subdivision category": "state", "Subdivision name": "Arkansas", "Parent subdivision": "", "filename": "US-AR"}
+{"Subdivision category": "state", "Subdivision name": "Arizona", "Parent subdivision": "", "filename": "US-AZ"}
+{"Subdivision category": "state", "Subdivision name": "California", "Parent subdivision": "", "filename": "US-CA"}
+{"Subdivision category": "state", "Subdivision name": "Colorado", "Parent subdivision": "", "filename": "US-CO"}
+{"Subdivision category": "state", "Subdivision name": "Connecticut", "Parent subdivision": "", "filename": "US-CT"}
+{"Subdivision category": "district", "Subdivision name": "District of Columbia", "Parent subdivision": "", "filename": "US-DC"}
+{"Subdivision category": "state", "Subdivision name": "Delaware", "Parent subdivision": "", "filename": "US-DE"}
+{"Subdivision category": "state", "Subdivision name": "Florida", "Parent subdivision": "", "filename": "US-FL"}
+{"Subdivision category": "state", "Subdivision name": "Georgia", "Parent subdivision": "", "filename": "US-GA"}
+{"Subdivision category": "state", "Subdivision name": "Hawaii", "Parent subdivision": "", "filename": "US-HI"}
+{"Subdivision category": "state", "Subdivision name": "Iowa", "Parent subdivision": "", "filename": "US-IA"}
+{"Subdivision category": "state", "Subdivision name": "Idaho", "Parent subdivision": "", "filename": "US-ID"}
+{"Subdivision category": "state", "Subdivision name": "Illinois", "Parent subdivision": "", "filename": "US-IL"}
+{"Subdivision category": "state", "Subdivision name": "Indiana", "Parent subdivision": "", "filename": "US-IN"}
+{"Subdivision category": "state", "Subdivision name": "Kansas", "Parent subdivision": "", "filename": "US-KS"}
+{"Subdivision category": "state", "Subdivision name": "Kentucky", "Parent subdivision": "", "filename": "US-KY"}
+{"Subdivision category": "state", "Subdivision name": "Louisiana", "Parent subdivision": "", "filename": "US-LA"}
+{"Subdivision category": "state", "Subdivision name": "Massachusetts", "Parent subdivision": "", "filename": "US-MA"}
+{"Subdivision category": "state", "Subdivision name": "Maryland", "Parent subdivision": "", "filename": "US-MD"}
+{"Subdivision category": "state", "Subdivision name": "Maine", "Parent subdivision": "", "filename": "US-ME"}
+{"Subdivision category": "state", "Subdivision name": "Michigan", "Parent subdivision": "", "filename": "US-MI"}
+{"Subdivision category": "state", "Subdivision name": "Minnesota", "Parent subdivision": "", "filename": "US-MN"}
+{"Subdivision category": "state", "Subdivision name": "Missouri", "Parent subdivision": "", "filename": "US-MO"}
+{"Subdivision category": "state", "Subdivision name": "Mississippi", "Parent subdivision": "", "filename": "US-MS"}
+{"Subdivision category": "state", "Subdivision name": "Montana", "Parent subdivision": "", "filename": "US-MT"}
+{"Subdivision category": "state", "Subdivision name": "North Carolina", "Parent subdivision": "", "filename": "US-NC"}
+{"Subdivision category": "state", "Subdivision name": "North Dakota", "Parent subdivision": "", "filename": "US-ND"}
+{"Subdivision category": "state", "Subdivision name": "Nebraska", "Parent subdivision": "", "filename": "US-NE"}
+{"Subdivision category": "state", "Subdivision name": "New Hampshire", "Parent subdivision": "", "filename": "US-NH"}
+{"Subdivision category": "state", "Subdivision name": "New Jersey", "Parent subdivision": "", "filename": "US-NJ"}
+{"Subdivision category": "state", "Subdivision name": "New Mexico", "Parent subdivision": "", "filename": "US-NM"}
+{"Subdivision category": "state", "Subdivision name": "Nevada", "Parent subdivision": "", "filename": "US-NV"}
+{"Subdivision category": "state", "Subdivision name": "New York", "Parent subdivision": "", "filename": "US-NY"}
+{"Subdivision category": "state", "Subdivision name": "Ohio", "Parent subdivision": "", "filename": "US-OH"}
+{"Subdivision category": "state", "Subdivision name": "Oklahoma", "Parent subdivision": "", "filename": "US-OK"}
+{"Subdivision category": "state", "Subdivision name": "Oregon", "Parent subdivision": "", "filename": "US-OR"}
+{"Subdivision category": "state", "Subdivision name": "Pennsylvania", "Parent subdivision": "", "filename": "US-PA"}
+{"Subdivision category": "state", "Subdivision name": "Rhode Island", "Parent subdivision": "", "filename": "US-RI"}
+{"Subdivision category": "state", "Subdivision name": "South Carolina", "Parent subdivision": "", "filename": "US-SC"}
+{"Subdivision category": "state", "Subdivision name": "South Dakota", "Parent subdivision": "", "filename": "US-SD"}
+{"Subdivision category": "state", "Subdivision name": "Tennessee", "Parent subdivision": "", "filename": "US-TN"}
+{"Subdivision category": "state", "Subdivision name": "Texas", "Parent subdivision": "", "filename": "US-TX"}
+{"Subdivision category": "state", "Subdivision name": "Utah", "Parent subdivision": "", "filename": "US-UT"}
+{"Subdivision category": "state", "Subdivision name": "Virginia", "Parent subdivision": "", "filename": "US-VA"}
+{"Subdivision category": "state", "Subdivision name": "Vermont", "Parent subdivision": "", "filename": "US-VT"}
+{"Subdivision category": "state", "Subdivision name": "Washington", "Parent subdivision": "", "filename": "US-WA"}
+{"Subdivision category": "state", "Subdivision name": "Wisconsin", "Parent subdivision": "", "filename": "US-WI"}
+{"Subdivision category": "state", "Subdivision name": "West Virginia", "Parent subdivision": "", "filename": "US-WV"}
+{"Subdivision category": "state", "Subdivision name": "Wyoming", "Parent subdivision": "", "filename": "US-WY"}
